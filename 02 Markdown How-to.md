@@ -1,3 +1,5 @@
 # References
 
-Here is a quick [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight formatting language created by [John Gruber](https://en.wikipedia.org/wiki/John_Gruber).
+
+Here is a quick [MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
