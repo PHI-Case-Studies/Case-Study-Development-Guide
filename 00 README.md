@@ -5,4 +5,4 @@ For more information on how to contribute, please browse the Contributing sectio
 
 # LICENSE
 
-Based on [Affero-GPLV3] (http://choosealicense.com/licenses/agpl-3.0/). Read the full license [here] ().
+Based on [Affero-GPLV3] (http://choosealicense.com/licenses/agpl-3.0/). Read the full license [here] (https://github.com/PHI-Case-Studies/Guide/blob/master/LICENSE.txt).
