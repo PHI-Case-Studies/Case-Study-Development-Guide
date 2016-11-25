@@ -8,4 +8,6 @@ Tolentino, H., Sangareddy, S. R. P., Pepper, C., & Magnuson, J. A. (2014). Case-
 
 Kim, D., Labkoff, S., & Holliday, S. H. (2008). Opportunities for Electronic Health Record Data to Support Business Functions in the Pharmaceutical Industry—A Case Study from Pfizer, Inc. Journal of the American Medical Informatics Association, 15(5), 581-584.
 
+Miller, R. H., & Miller, B. S. (2007). The Santa Barbara County care data exchange: what happened?. Health Affairs, 26(5), w568-w580.
+
 Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. Medical education, 40(9), 867-876.
