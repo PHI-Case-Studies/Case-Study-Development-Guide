@@ -21,3 +21,5 @@ Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006
 # Websites
 
 http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning
+
+Investigative Case-based Learning (http://bioquest.org/icbl/)
