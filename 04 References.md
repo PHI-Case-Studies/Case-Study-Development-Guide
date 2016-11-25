@@ -4,6 +4,8 @@ Alonge, O., Frattaroli, S., Davey-Rothwell, M., & Baral, S. (2016). A Transdisci
 
 Sibbald, S., Speechley, M., & Thind, A. (2016). A new approach to inter-disciplinary public health education. The European Journal of Public Health, 26(suppl 1), ckw164-075.
 
+Sibbald, S. L., Speechley, M., & Thind, A. (2016). Adapting to the Needs of the Public Health Workforce: An Integrated Case-Based Training Program. Frontiers in Public Health, 4.
+
 Naumes, W., & Naumes, M. J. (2014). The art and craft of case writing. Routledge.
 
 Tolentino, H., Sangareddy, S. R. P., Pepper, C., & Magnuson, J. A. (2014). Case-Based Learning in Public Health Informatics. In Public Health Informatics and Information Systems (pp. 489-510). Springer London.
