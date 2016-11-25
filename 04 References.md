@@ -32,3 +32,5 @@ Case-based Teaching and Learning (HSPH) (http://caseresources.hsph.harvard.edu/)
 
 https://www.schreyerinstitute.psu.edu/pdf/CaseWritingGuide.pdf
 
+http://caseresources.hsph.harvard.edu/writing-case
+
