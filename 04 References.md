@@ -1,3 +1,5 @@
+# Literature
+
 Nkhoma, M., Lam, T., Richardson, J., Kam, B., & Lau, K. H. (2016). Developing Case-based Learning Activities Based on the Revised Bloom’s Taxonomy. In InSITE 2016: Informing Science and IT Education Conferences (pp. 85-93). Informing Science Institute.
 
 Alonge, O., Frattaroli, S., Davey-Rothwell, M., & Baral, S. (2016). A Transdisciplinary Approach for Teaching Implementation Research and Practice in Public Health. Pedagogy in Health Promotion, 2(2), 127-136.
@@ -15,3 +17,7 @@ Kim, D., Labkoff, S., & Holliday, S. H. (2008). Opportunities for Electronic Hea
 Miller, R. H., & Miller, B. S. (2007). The Santa Barbara County care data exchange: what happened?. Health Affairs, 26(5), w568-w580.
 
 Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. Medical education, 40(9), 867-876.
+
+# Websites
+
+http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning
