@@ -8,3 +8,7 @@
 * Data Visualization
 * Geographic Information Systems
 * Development of an E-Health Roadmap
+
+# Case Template
+
+To learn more about how to structure cases, go to the [Case Template directory] ().
