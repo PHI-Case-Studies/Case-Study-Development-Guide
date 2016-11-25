@@ -22,7 +22,7 @@ Williams, B. (2005). Case based learning—a review of the literature: is there 
 
 # Websites
 
-http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning
+Case-based learning (Queensland University) (http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning)
 
 Investigative Case-based Learning (http://bioquest.org/icbl/)
 
