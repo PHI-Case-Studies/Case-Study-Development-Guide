@@ -18,6 +18,8 @@ Miller, R. H., & Miller, B. S. (2007). The Santa Barbara County care data exchan
 
 Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. Medical education, 40(9), 867-876.
 
+Williams, B. (2005). Case based learning—a review of the literature: is there scope for this educational paradigm in prehospital education?. Emergency Medicine Journal, 22(8), 577-581.
+
 # Websites
 
 http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning
