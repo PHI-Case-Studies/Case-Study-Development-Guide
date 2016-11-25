@@ -1,5 +1,7 @@
 Nkhoma, M., Lam, T., Richardson, J., Kam, B., & Lau, K. H. (2016). Developing Case-based Learning Activities Based on the Revised Bloom’s Taxonomy. In InSITE 2016: Informing Science and IT Education Conferences (pp. 85-93). Informing Science Institute.
 
+Alonge, O., Frattaroli, S., Davey-Rothwell, M., & Baral, S. (2016). A Transdisciplinary Approach for Teaching Implementation Research and Practice in Public Health. Pedagogy in Health Promotion, 2(2), 127-136.
+
 Naumes, W., & Naumes, M. J. (2014). The art and craft of case writing. Routledge.
 
 Tolentino, H., Sangareddy, S. R. P., Pepper, C., & Magnuson, J. A. (2014). Case-Based Learning in Public Health Informatics. In Public Health Informatics and Information Systems (pp. 489-510). Springer London.
