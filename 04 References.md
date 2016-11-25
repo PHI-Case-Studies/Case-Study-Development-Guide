@@ -27,3 +27,8 @@ Case-based learning (Queensland University) (http://www.queensu.ca/ctl/what-we-d
 Investigative Case-based Learning (http://bioquest.org/icbl/)
 
 Case-based Teaching and Learning (HSPH) (http://caseresources.hsph.harvard.edu/)
+
+# Writing Guides
+
+https://www.schreyerinstitute.psu.edu/pdf/CaseWritingGuide.pdf
+
