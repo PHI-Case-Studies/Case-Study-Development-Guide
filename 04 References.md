@@ -28,6 +28,8 @@ Investigative Case-based Learning (http://bioquest.org/icbl/)
 
 Case-based Teaching and Learning (HSPH) (http://caseresources.hsph.harvard.edu/)
 
+Learning.gov (Wales) Case Study Toolkit (http://learning.gov.wales/docs/learningwales/publications/140801-case-study-toolkit-en.pdf)
+
 # Writing Guides
 
 https://www.schreyerinstitute.psu.edu/pdf/CaseWritingGuide.pdf
