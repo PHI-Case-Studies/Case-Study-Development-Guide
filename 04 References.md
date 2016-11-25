@@ -25,3 +25,5 @@ Williams, B. (2005). Case based learning—a review of the literature: is there 
 http://www.queensu.ca/ctl/what-we-do/teaching-and-assessment-strategies/case-based-learning
 
 Investigative Case-based Learning (http://bioquest.org/icbl/)
+
+Case-based Teaching and Learning (HSPH) (http://caseresources.hsph.harvard.edu/)
