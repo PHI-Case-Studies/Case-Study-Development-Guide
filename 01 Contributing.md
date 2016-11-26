@@ -16,6 +16,8 @@ To begin contributing:
 
 There are two teams potential contributors can join. Members can join either or both teams.
 
-1. Case Writers
+1. Case Writers: Become members of case writing projects and contribute to case writing.
 
-2. Case Users:
+2. Case Users: Download cases, use them, and provide feedback for case improvement.
+
+3. Case Quality Assurance: Review cases, check cases for content quality, implement suggestions for improvement.
