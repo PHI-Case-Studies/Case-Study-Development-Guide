@@ -1,10 +1,11 @@
 # Cases in this Repository
 
 * Electronic Lab Reporting
-* Electronic Health Records
+* Electronic Health Records in Public Health
 * Health Information Exchange
 * Information Systems Security
-* Information Systems Evaluation
+* Informatics Evaluation of Information Systems
+* Economic Evaluation of Information Systems
 * Data Visualization
 * Geographic Information Systems
 * Development of an E-Health Roadmap
