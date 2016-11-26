@@ -14,7 +14,7 @@ To begin contributing:
 
 # Joining Teams
 
-There are two teams potential contributors can join. Members can join either or both teams.
+There are three teams potential contributors can join. Members can belong to more than one team.
 
 1. Case Writers: Become members of case writing projects and contribute to case writing.
 
