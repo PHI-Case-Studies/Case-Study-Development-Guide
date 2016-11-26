@@ -41,3 +41,8 @@ Organizing your social sciences research paper: Writing a Case Study (http://lib
 
 How to Write the Case Study (Monash University) (http://www.monash.edu.au/lls/llonline/quickrefs/27-case-study.pdf)
 
+# Tools
+
+Converting Markdown to PDF
+
+Converting Markdown to Epub
