@@ -8,5 +8,5 @@ To begin contributing:
 
 1. Create a GitHub account.
 2. Sign up for a project by cloning a repository.
-3. Request to join a team.
+3. Request to [join a team] (https://github.com/orgs/PHI-Case-Studies/teams).
 4. Study [writing content in Markdown] (https://github.com/PHI-Case-Studies/Guide/blob/master/02%20Markdown%20How-to.md).
