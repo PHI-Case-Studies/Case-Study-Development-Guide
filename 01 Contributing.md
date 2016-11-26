@@ -8,3 +8,4 @@ To begin contributing:
 
 1. Create a GitHub account.
 2. Sign up for a project by cloning a repository.
+3. Request to join a team.
