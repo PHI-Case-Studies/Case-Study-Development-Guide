@@ -1,6 +1,6 @@
 # Cases in this Repository
 
-* 1854-Cholera-Outbreak-London
+* [1854-Cholera-Outbreak-London](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London)
 * 2005-MDR-TB-Outbreak-Thailand
 
 # Case Template
