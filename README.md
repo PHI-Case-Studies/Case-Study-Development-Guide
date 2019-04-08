@@ -11,4 +11,4 @@ To view what cases are available for contributors and users, see [Cases](https:/
 
 # License
 
-Based on [Affero-GPLV3] (http://choosealicense.com/licenses/agpl-3.0/). Read the full license [here](https://github.com/PHI-Case-Studies/Guide/blob/master/LICENSE.txt).
+Based on [Affero-GPLV3](http://choosealicense.com/licenses/agpl-3.0/). Read the full license [here](https://github.com/PHI-Case-Studies/Guide/blob/master/LICENSE.txt).
