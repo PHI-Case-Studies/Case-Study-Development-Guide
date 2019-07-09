@@ -5,4 +5,4 @@
 
 # Case Builder
 
-To learn more about how to structure cases, go to the [Case Builder Folder] (https://github.com/PHI-Case-Studies/2019-Case-Builder).
+To learn more about how to structure cases, go to the [Case Builder Folder](https://github.com/PHI-Case-Studies/2019-Case-Builder).
