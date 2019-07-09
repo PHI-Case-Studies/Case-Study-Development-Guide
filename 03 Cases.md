@@ -1,6 +1,9 @@
 # Cases in this Repository
 
-* [1854-Cholera-Outbreak-London](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London)
+* **Archive**: [1854-Cholera-Outbreak-London](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London)
+* **New**:
+  * [1854-Cholera-Outbreak-London-Basic](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London-Basic)
+  * [1854-Cholera-Outbreak-London-Advanced-1](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London-Advanced-1)
 * [2005-MDR-TB-Outbreak-Thailand](https://github.com/PHI-Case-Studies/2005-MDR-TB-Outbreak-Thailand)
 
 # Case Builder
