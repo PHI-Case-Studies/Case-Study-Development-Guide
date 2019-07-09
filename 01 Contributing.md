@@ -6,11 +6,14 @@ A great way to get involved in case study development is to use open source case
 
 To begin contributing:
 
-1. Create a GitHub account.
-2. Sign up for a project by cloning a repository.
+1. Create accounts:
+   a. GitHub
+   b. Microsoft Azure
+2. Sign up for a GitHub project by cloning a repository.
 3. Request to [join a team](https://github.com/orgs/PHI-Case-Studies/teams).
 4. Study [writing content in Markdown](https://github.com/PHI-Case-Studies/Guide/blob/master/02%20Markdown%20How-to.md).
-5. Learn how to use Jupyter Notebooks and Binder.
+5. Study coding in Python for Jupyter Notebook
+5. Learn how to use Jupyter Notebooks with BinderHub and Microsoft Azure.
 6. Review the Authoring Guide.
 
 # Joining Teams
