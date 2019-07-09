@@ -3,6 +3,6 @@
 * [1854-Cholera-Outbreak-London](https://github.com/PHI-Case-Studies/1854-Cholera-Outbreak-London)
 * [2005-MDR-TB-Outbreak-Thailand](https://github.com/PHI-Case-Studies/2005-MDR-TB-Outbreak-Thailand)
 
-# Case Template
+# Case Builder
 
-To learn more about how to structure cases, go to the [Case Template directory] (https://github.com/PHI-Case-Studies/Cases/tree/master/Case-Template).
+To learn more about how to structure cases, go to the [Case Builder Folder] (https://github.com/PHI-Case-Studies/2019-Case-Builder).
